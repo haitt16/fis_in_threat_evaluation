@@ -10,7 +10,8 @@ Toàn bộ mô hình được xây dựng sử dụng phần mềm MATLAB 2020a.
 ## FIS Model
 
 Xây dựng thử nghiệm 3 mô hình, trong đó các mô hình chỉ khác nhau ở phương pháp Aggregation hay `AggregationMethod` bao gồm `probor`, `sum`, `max`.
-Các tên file mô hình có dạng như sau:\\
+Các tên file mô hình có dạng như sau:
+
 `ThreatEvaluation_<AgrregationMethod>.fis`
 
 ## Dữ liệu Test
