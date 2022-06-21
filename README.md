@@ -4,6 +4,7 @@
 - [FIS Models](./model/)
 - [Dữ liệu Test](./test/)
 - [Bộ quy tắc](./rulebox/)
+
 Toàn bộ mô hình được xây dựng sử dụng phần mềm MATLAB 2020a. Các hướng dẫn sau đây cũng sử dụng các script của phần mềm này.
 
 ## FIS Model
